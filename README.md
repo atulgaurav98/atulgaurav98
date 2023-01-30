@@ -1,5 +1,5 @@
  ### Hello World!  <img src="https://github.com/atulgaurav98/atulgaurav98/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/atulgaurav98/atulgaurav98)](https://badges.pufler.dev/visits/atulgaurav98/atulgaurav98)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
   
 <img src="https://github.com/atulgaurav98/atulgaurav98/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
