@@ -1,5 +1,5 @@
  ### Hello World!  <img src="https://github.com/atulgaurav98/atulgaurav98/blob/master/assets/Hi.gif" width="29px">
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=atulgaurav98.68078814&left_color=green&right_color=red)
   
 <img src="https://github.com/atulgaurav98/atulgaurav98/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
@@ -22,8 +22,10 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulgaurav98&layout=donut-vertical)](https://github.com/atulgaurav98/github-readme-stats)
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=atulgaurav98&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=atulgaurav98&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/atulgaurav98/atulgaurav98/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=atulgaurav98&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=atulgaurav98&show_icons=true&theme=dark)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/atulgaurav98/atulgaurav98/blob/master/assets/saved.gif" width="195">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=atulgaurav98&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=atulgaurav98&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
